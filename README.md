@@ -45,6 +45,8 @@ Users should be able to:
 - [Vertical and Horizontal centering](https://stackoverflow.com/questions/11978231/vertically-center-two-elements-within-a-div/31977476#31977476) - These comments helped me understand the centering of elements.
 - [shadow](https://getcssscan.com/css-box-shadow-examples) - This is a great site which helped me understand shadows. I'd recommend it to anyone needing shadow styles.
 
+- [for background](https://www.svgbackgrounds.com/how-to-add-svgs-with-css-background-image/) - This article was helpful when managing the background image.
+
 
 ## Author
 
