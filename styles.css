@@ -49,9 +49,7 @@ p {
 
   .card {
     background-color: white;
-    height: 80%;
-    min-width: 30%;
-    max-width: 30%;
+    max-width: 25rem;
     border-radius: 15px;
     text-align: center;
   }
@@ -132,7 +130,6 @@ p {
 .plan {
   display: flex;
   flex-direction: row;
-  justify-content: space-between;
   justify-content: space-around;
   align-items: center;
   margin-top: 40px;
