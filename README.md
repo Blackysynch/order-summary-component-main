@@ -27,7 +27,7 @@ Users should be able to:
 ![](./my-solution.jpg)
 
 ### Links
-- Live Site URL: [github page](https://blackysynch.github.io/results-summary-component-main/)
+- Live Site URL: [github page](https://blackysynch.github.io/order-summary-component-main/)
 
 ## My process
 
